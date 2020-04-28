@@ -1,2 +1,0 @@
-# RandomQuote
-Created with CodeSandbox
